@@ -3,7 +3,7 @@
 This project focuses on analyzing Jenson USA's dataset to extract insights on customer behavior, staff performance, inventory management, and store operations through SQL queries. The analysis aims to inform strategic decisions and enhance operational efficiency.
 
 ## Dataset
-Jenson USA SQL Dataset
+[Jenson USA SQL Dataset](https://drive.google.com/drive/folders/1feFkClnYME7Be3kjmz-TD2PV1uVkXNAN)
 
 The dataset includes information about products, customers, orders, staff, and sales.
 
